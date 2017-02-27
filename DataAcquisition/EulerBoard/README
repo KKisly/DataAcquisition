@@ -1,0 +1,8 @@
+EulerBoard.ino
+
+- script supporting via hardware interuptions:
+two torque sensor on H711 chip
+two current sensors on Allegro ASC770
+two voltage sensors (uknown base)
+one vibration sensor (uknown base)
+two RPM sensors (unknown base)

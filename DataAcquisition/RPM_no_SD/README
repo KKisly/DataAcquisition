@@ -1,0 +1,4 @@
+RPM_no_SD.ino
+
+- script supporting:
+two RPM sensors (unknown base) with no SD card support
