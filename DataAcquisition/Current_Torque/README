@@ -1,5 +1,5 @@
 Current_Torque.ino
 
 - script supporting:
-one torque sensor on H711 chip
-two current sensors on Allegro ASC770 
+  one torque sensor on H711 chip
+  two current sensors on Allegro ASC770 
