@@ -1,3 +1,6 @@
+/*Constantine Kisly
+ACS758 Current, Torgue Measurement Script for Data acqusition station
+*/
 #include "HX711.h"
 //#define DEBUG
 #include <SPI.h>
