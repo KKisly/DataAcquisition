@@ -1,3 +1,6 @@
+/*Data acqusition station script
+Armada Aeronautics Inc copyrighted
+*/
 //   I/O PINS
 // Arduino Mega 2560
 #define TRIMMER_PIN      A2
