@@ -1,5 +1,4 @@
-
-
+// Modified and adopted by Constantine Kisly 
 // This sketch has been Refurbished by BUHOSOFT
 // Original code provided by Smoke And Wires
 // http://www.smokeandwires.co.nz
