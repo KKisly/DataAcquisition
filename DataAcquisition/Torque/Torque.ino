@@ -1,3 +1,6 @@
+/*Constantine Kisly
+HX711 Torgue Script for Data acqusition station
+*/
 #include "HX711.h"
 
 // HX711.DOUT  - pin #A1 A12
